@@ -1,5 +1,5 @@
 # FiveMInformationCommand
-A simple /info command which shows your website and Discord links!
+A simple /info command which shows your website and Discord link!
 
 
 ![unknown](https://user-images.githubusercontent.com/98543952/152378564-bd02a0f3-1b7b-41aa-abb4-6589a8df3e5e.png)

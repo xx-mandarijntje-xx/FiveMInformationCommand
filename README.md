@@ -14,8 +14,6 @@ A simple /discord &amp; /website command for FiveM servers!
 ![unknown](https://user-images.githubusercontent.com/98543952/152370748-11e16bce-1bf0-4471-900e-f815ab3e9c07.png)
 
 
-A simple /discord command for FiveM servers.
-
 Important: You will need: mythic_notify for this script to work.
 
 For any issues or questions regarding this script contact me on Discord: Col. Sanders#0001

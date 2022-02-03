@@ -1,17 +1,11 @@
 # FiveMInformationCommand
-A simple /discord &amp; /website command for FiveM servers!
+A simple /info command which shows your website and Discord links!
 
 
-![unknown](https://user-images.githubusercontent.com/98543952/152370705-e3189834-88a9-40d1-8f02-6d619ce4f508.png)
+![unknown](https://user-images.githubusercontent.com/98543952/152378564-bd02a0f3-1b7b-41aa-abb4-6589a8df3e5e.png)
 
 
-![unknown](https://user-images.githubusercontent.com/98543952/152370722-460ca434-8e73-43b4-a38d-e7224ae4ee8e.png)
-
-
-![unknown](https://user-images.githubusercontent.com/98543952/152370739-cc1bb3db-1238-4b02-b878-c8a586976cd0.png)
-
-
-![unknown](https://user-images.githubusercontent.com/98543952/152370748-11e16bce-1bf0-4471-900e-f815ab3e9c07.png)
+![unknown](https://user-images.githubusercontent.com/98543952/152378569-bdf695cc-f06c-40ee-942f-886e81a81237.png)
 
 
 Important: You will need: mythic_notify for this script to work.
